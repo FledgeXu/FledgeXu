@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, FledgeShiu Here! 👋
+A senior student of Computer Sience.
+- 🔭 Programming Language: Java, Python, Kotlin, Haskell etc
+- 🧩 Tools: macOS/Linux, zsh, vim etc
+- 😄 Pronouns: It/It(Actually, He/Him)
+
+![](https://github-readme-stats.vercel.app/api?username=fledgexu)
 
 <!--
 **FledgeXu/FledgeXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
