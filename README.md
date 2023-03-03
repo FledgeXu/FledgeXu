@@ -1,5 +1,5 @@
 ### Hey, FledgeShiu Here! 👋
-A Master student of Computer Science.
+A graduate of Computer Science.
 
 And I'm looking for an internship. So If you have any opportunity, please contact me.
 
