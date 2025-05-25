@@ -1,8 +1,4 @@
 ### Hey, FledgeShiu Here! 👋
-A graduate of Computer Science.
-
-And I'm looking for an internship. So If you have any opportunity, please contact me.
-
 - 🔭 Programming Language: Java, Python, Kotlin, Haskell etc.
 - 🧩 Tools: macOS/Linux, zsh, vim etc.
 - 📫 How to reach me: [Twitter](https://twitter.com/fledge_xu), [Mail](mailto:xzk0701@gmail.com)
